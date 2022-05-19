@@ -1,0 +1,30 @@
+body {
+  margin: 180px;
+  margin-top: 50px;
+  font-family: sans-serif;
+  background-color: oldlace;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: darkslategray;
+  text-align: justify;
+  font-size: 34px;
+  text-transform: uppercase;
+}
+h2 {
+  color: midnightblue;
+}
+p {
+  text-align: justify;
+  font-size: 22px;
+  line-height: 1.5;
+}
+img {
+  border-radius: 50%;
+  width: 150px;
+  margin-top: 6%;
+}
+.author {
+  font-size: 20px;
+}
